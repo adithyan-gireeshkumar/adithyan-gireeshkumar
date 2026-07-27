@@ -40,9 +40,9 @@ Exploring **RAG**, **FAISS**, **LangChain** and **REST APIs**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyan-gireeshkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=adithyan-gireeshkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyan-gireeshkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adithyan-gireeshkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-gireeshkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
@@ -91,7 +91,7 @@ Exploring **RAG**, **FAISS**, **LangChain** and **REST APIs**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=adithyan-gireeshkumar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-trophies.devomb.com/?username=adithyan-gireeshkumar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
