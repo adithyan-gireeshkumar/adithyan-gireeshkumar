@@ -1,21 +1,23 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adithyan%20Gireeshkumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Things%20That%20Matter%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Adithyan%20Gireeshkumar&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Things%20That%20Matter%20%F0%9F%9A%80&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Adithyan+Gireeshkumar;B.Tech+IT+Student+%40+CUSAT+%F0%9F%8E%93;Full+Stack+Developer+%7C+AI+Explorer+%F0%9F%A4%96;Building+Impactful+Software+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Hi+there!+%F0%9F%91%8B+I%27m+Adithyan+Gireeshkumar;B.Tech+IT+%40+CUSAT+%F0%9F%8E%93+%7C+Kerala%2C+India;Full+Stack+Dev+%E2%9A%A1+AI+Explorer+%F0%9F%A4%96;Building+Impactful+Software+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=adithyan-gireeshkumar&style=for-the-badge&color=6E57F7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=adithyan-gireeshkumar&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/adithyan-gireeshkumar?tab=followers">
-  <img src="https://img.shields.io/github/followers/adithyan-gireeshkumar?style=for-the-badge&color=6E57F7&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/adithyan-gireeshkumar?style=for-the-badge&color=A855F7&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-6E57F7?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" alt="Focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Building%20Something%20Cool-22c55e?style=for-the-badge&logoColor=white" alt="Status"/>
 
 </div>
 
@@ -23,31 +25,33 @@
 
 ## 🚀 About Me
 
-```python
-class Adithyan:
-    def __init__(self):
-        self.name        = "Adithyan Gireeshkumar"
-        self.degree      = "B.Tech Information Technology @ CUSAT"
-        self.location    = "Kerala, India 🇮🇳"
-        self.passion     = ["Full Stack Dev", "AI/ML", "Data Analytics"]
-        self.learning    = ["React", "Node.js", "DSA", "System Design", "AI & ML"]
-        self.exploring   = ["RAG", "FAISS", "LangChain", "REST APIs", "Full Stack"]
-        self.goal        = "Build a software company that creates impactful products 🎯"
-        self.mantra      = "Build things that matter. Learn continuously. Share knowledge."
+<table>
+<tr>
+<td valign="top" width="50%">
 
-    def say_hi(self):
-        print(f"Hey! I'm {self.name}.")
-        print("I'm passionate about building software that solves real-world problems.")
-        print("I enjoy learning new technologies, writing clean code,")
-        print("and exploring AI, data analytics, and full-stack development. 💻")
+### 👨‍💻 Who Am I?
 
-me = Adithyan()
-me.say_hi()
-```
+🎓 **B.Tech IT** @ CUSAT, Kerala, India 🇮🇳  
+💡 Passionate about **Full Stack Dev**, **AI/ML** & **Data Analytics**  
+🌱 Currently mastering **React**, **Node.js**, **DSA** & **System Design**  
+🔭 Exploring **RAG**, **FAISS**, **LangChain** & **REST APIs**  
+🎯 **Goal:** Build a software company that creates impactful products  
+💬 **Mantra:** *Build things that matter. Learn continuously. Share knowledge.*
+
+</td>
+<td valign="top" width="50%">
+
+### ⚡ Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=adithyan-gireeshkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -77,21 +81,30 @@ me.say_hi()
 ### 🤖 AI / ML Ecosystem
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-007AFF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6E57F7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Universe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyan-gireeshkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyan-gireeshkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyan-gireeshkumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-gireeshkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan-gireeshkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adithyan-gireeshkumar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
@@ -103,33 +116,37 @@ me.say_hi()
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |:---:|:---:|:---:|
-| 🚓 **Crime Data Management System** | Full-featured CDMS for managing and analyzing criminal records | Python, Flask, MySQL |
-| 🌐 **Social Media Platform** | Feature-rich social networking web application | React, Node.js, SQLite |
-| 🤖 **AI-Powered Applications** | Intelligent apps using Python, RAG, FAISS & LangChain | Python, LangChain, FAISS |
-| 📚 **Personal Learning Projects** | Experiments in DSA, System Design & Full Stack | Varied |
+| 🚓 **Crime Data Management System** | Full-featured CDMS for managing and analyzing criminal records | `Python` `Flask` `MySQL` |
+| 🌐 **Social Media Platform** | Feature-rich social networking web application | `React` `Node.js` `SQLite` |
+| 🤖 **AI-Powered Applications** | Intelligent apps using Python, RAG, FAISS & LangChain | `Python` `LangChain` `FAISS` |
+| 📚 **Personal Learning Projects** | Experiments in DSA, System Design & Full Stack | `Varied` |
 
 </div>
 
 ---
 
-## 📖 Currently Exploring
+## 🔥 Currently Exploring
 
 <div align="center">
 
-```
-🔍 Retrieval-Augmented Generation (RAG)
-🧠 FAISS — Vector Search & Similarity
-🔗 LangChain — LLM Application Pipelines
-🌐 REST API Design & Development
-🏗️  Full Stack Development (MERN)
-📊 Data Analytics & Visualization
-```
+<img src="https://img.shields.io/badge/🔍%20RAG-Retrieval%20Augmented%20Generation-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🧠%20FAISS-Vector%20Search%20%26%20Similarity-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔗%20LangChain-LLM%20Application%20Pipelines-6D28D9?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🌐%20REST%20APIs-Design%20%26%20Development-4F46E5?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏗️%20Full%20Stack-MERN%20Development-3B82F6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📊%20Data%20Analytics-Visualization%20%26%20Insights-06B6D4?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## 📈 GitHub Goals
+## 📈 Goals & Progress
 
 <div align="center">
 
@@ -149,39 +166,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyan-gireeshkumar&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FF6B6B&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adithyan-gireeshkumar&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyan-gireeshkumar&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🤝 Let's Connect
-
-<a href="https://github.com/adithyan-gireeshkumar" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:adithyangireeshkumar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
 
 <!-- Snake Game Contribution Grid -->
 <picture>
@@ -193,7 +184,7 @@ me.say_hi()
 <br/><br/>
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 *✨ "Build things that matter. Learn continuously. Share knowledge." ✨*
 
