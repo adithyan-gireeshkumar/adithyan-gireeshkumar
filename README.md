@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ghchart.rshah.org/40c463/adithyan-gireeshkumar" width="900" alt="GitHub-style contribution calendar for adithyan-gireeshkumar" />
+<img src="https://git-readme-api.com/api/contrib-heatmap.svg?user=adithyan-gireeshkumar&theme=github-dark" width="100%" alt="Live GitHub-style contribution calendar for adithyan-gireeshkumar" />
 
 </div>
 
