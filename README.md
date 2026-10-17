@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7CFF8A/adithyan-gireeshkumar" width="100%" alt="GitHub contribution calendar for adithyan-gireeshkumar" />
+<img src="https://ghchart.rshah.org/40c463/adithyan-gireeshkumar" width="900" alt="GitHub-style contribution calendar for adithyan-gireeshkumar" />
 
 </div>
 
 ---
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
 
-### Programming Languages & Web Foundations
+<h3 align="center">Programming Languages & Web Foundations</h3>
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
-### Frontend Libraries & UI
+<h3 align="center">Frontend Libraries & UI</h3>
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-### Backend Frameworks
+<h3 align="center">Backend Frameworks</h3>
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 </div>
 
-### APIs, Data Analysis & Visualisation
+<h3 align="center">APIs, Data Analysis & Visualisation</h3>
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 </div>
 
-### Databases & Data Services
+<h3 align="center">Databases & Data Services</h3>
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 </div>
 
-### Local AI & LLM Tools
+<h3 align="center">Local AI & LLM Tools</h3>
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 </div>
 
-### Developer Tools & Platforms
+<h3 align="center">Developer Tools & Platforms</h3>
 
 <div align="center">
 
